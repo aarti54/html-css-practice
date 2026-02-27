@@ -6,21 +6,29 @@ I’m learning and improving my frontend skills by creating simple web pages and
 ## Topics Covered
 - Basic HTML structure and tags  
 - Semantic HTML elements  
-- Lists, tables, and forms  
-- Linking pages and using attributes  
-- Introduction to CSS styling  
+- Lists and tables  
+- Forms (input, textarea, select, button)  
+- Embedding media using `<iframe>` and `<video>`  
+- Linking pages and organizing content  
+- Introduction to CSS (upcoming) 
 
-## Purpose
-To strengthen my understanding of web fundamentals and prepare for building real projects like my personal portfolio.
+## Learning Goals
+- Strengthen my HTML fundamentals  
+- Build visually structured and accessible web pages  
+- Understand how each HTML tag and attribute works  
+- Prepare for creating a personal portfolio website
 
-## Folder Overview
-Each `.html` file in this repository focuses on a specific concept:
-- `hello.html` – Basic HTML setup  
-- `list.html` – Practicing lists (`<ul>`, `<ol>`, `<dl>`)  
-- `semantic.html` – Semantic HTML elements  
-- `table.html` – Working with tables  
-- `index.html` – Home or combined practice page  
 
+## 📂 Folder Overview
+| File Name | Description |
+|------------|-------------|
+| `index.html` | Home page / main practice area |
+| `hello.html` | Basic HTML setup and syntax |
+| `list.html` | Practicing ordered and unordered lists |
+| `semantic.html` | Semantic HTML tags like `<main>`, `<header>`, `<footer>` |
+| `table.html` | Working with HTML tables |
+| `form.html` | Practicing forms, inputs, textarea, select, and media embedding |
+| `README.md` | Repository description and learning log |
 ---
 
-*I’ll keep updating this repo as I learn new HTML and CSS topics!*
+*I update this repository regularly as I continue practicing and improving my HTML & CSS skills.*
