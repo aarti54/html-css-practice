@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form in HTML</title>
+</head>
+<!-- Form in HTML - Forms are used to collect data from the user
+        eg- sign up/login/help requests/contact me -->
+
+<!--  Action in Form - Action attribute is used to define what 
+      action needs to be performed when a form is submitted.
+        <form action="/action.javascript">  -->
+<body>
+    <header></header>
+    <main>
+        <h4>Ragistration Form</h4>
+        <form action="/action.js">
+            <!--Action in Form - Action attribute is used to define what 
+                action needs to be performed when a form is submitted.  -->
+            <span>Enter Username</span>
+            <input type="text" placeholder="username">
+            <br><br>
+            <span>Enter Password</span>
+            <input type="password" placeholder="password">
+            <br><br>
+            <h4>Select your class</h4>
+            <label for="101">
+                <input type="radio" value="class XI" name="class" id="101">class XI
+            </label>
+            <br>
+            <label for="102">
+                <input type="radio" value="class XII" name="class" id="102">class XII
+            </label>
+            <br><br>
+            <h4>Select Subjects</h4>
+            <label for="math">
+                <input type="checkbox" value="math" name="subject" id="101">Maths
+            </label>
+            <label for="phy">
+                <input type="checkbox" value="phy" name="subject" id="101">Physics
+            </label>
+            <label for="Chem">
+                <input type="checkbox" value="chem" name="subject" id="101">Chemistry
+            </label>
+            <label for="CS">
+                <input type="checkbox" value="cs" name="subject" id="101">Computer Science
+            </label>
+            <br>
+            <h4>Select your city</h4>
+            <select name="city">
+                <option value="Bhopal">Bhopal</option>
+                <option value="Ahmedabad">Ahmedabad</option>
+                <option value="Banglore">Banglore</option>
+                <option value="Hydrabad">Hydrabad</option>
+            </select>
+            <br><br>
+            <textarea name="feedback" id="101" placeholder="please give your valueable feedback here" rows="5"></textarea>
+            <br>
+            <input type="submit" value="submit">
+        </form>
+
+        <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/HcOc7P5BMi4?si=3fZqed3y71rPA4ZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+        <video width="180" height="315" src="https://www.pexels.com/download/video/36100111/" controls loop>my vedio</video>
+    </main>
+    <footer></footer>
+</body>
+</html>
