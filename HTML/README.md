@@ -19,7 +19,7 @@ I’m learning and improving my frontend skills by creating simple web pages and
 - Prepare for creating a personal portfolio website
 
 
-## 📂 Folder Overview
+## Folder Overview
 | File Name | Description |
 |------------|-------------|
 | `index.html` | Home page / main practice area |
@@ -30,5 +30,45 @@ I’m learning and improving my frontend skills by creating simple web pages and
 | `form.html` | Practicing forms, inputs, textarea, select, and media embedding |
 | `README.md` | Repository description and learning log |
 ---
+
+# CSS Practice
+
+This folder contains my practice work for learning **CSS (Cascading Style Sheets)**.
+
+CSS is used to style and design web pages created with HTML.  
+It controls colors, layout, spacing, fonts, and overall appearance of a website.
+
+## Topics Covered
+
+- CSS Syntax
+- CSS Selectors
+  - Element Selector
+  - ID Selector
+  - Class Selector
+  - Grouping Selector
+- Linking External CSS
+- Basic Text Styling (color)
+
+## Files
+
+CSS/
+│
+├── style.css → Contains CSS styling and selector practice  
+└── style.html → HTML file used to test and practice CSS styles
+
+## What I Practiced
+
+- Writing CSS rules using selectors
+- Applying styles to HTML elements
+- Using an **external stylesheet**
+- Understanding how CSS controls the presentation of a webpage
+
+## Purpose
+
+This practice helps me understand the **basics of CSS styling** as part of my **Web Development learning journey**.
+
+
+
+This repository is created for learning and practice purposes.
 
 *I update this repository regularly as I continue practicing and improving my HTML & CSS skills.*
