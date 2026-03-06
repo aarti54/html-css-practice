@@ -1,0 +1,32 @@
+/* 
+CSS gives style to raw HTML
+CSS stands for Cascading Style Sheets
+CSS is used to give style to our web pages
+CSS is used to make websites responsive
+HTML is used to structure a website
+CSS takes responsibility of design
+
+*Role of CSS - Cascading style sheets which is known as css is a style sheet language that used to 
+              handle the presentation of the web page contaning HTML 
+            - It makes our websites beautiful and modern looking 
+
+p<selector> {color<property>: blue<value>;}
+
+*Types of Basic CSS Selectors
+-Element Selector
+-id Selector
+-class Selector
+-The CSS grouping Selector
+
+*Three ways to add css to the Markup 
+- Inline CSS: CSS is added to the elements directly using style attribute 
+- Internal CSS: CSS is kept inside the head tags in <style> tags
+- External CSS: CSS is kept separately inside (a.css) style sheet
+
+*make sure write CSS in css file.
+*make sure include that CSS file to Markup.
+*/
+
+p{
+  color: red;
+}
