@@ -42,7 +42,7 @@ p{
   color: green;
 }
 
-/* element in element selector */
+/* descendent selector */
 div p{
   color: blueviolet;
 }
