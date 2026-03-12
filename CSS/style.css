@@ -27,27 +27,4 @@ p<selector> {color<property>: blue<value>;}
 *make sure include that CSS file to Markup.
 */
 
-/* element selector */
-p{
-  color: red;
-}
 
-/* id selector */
-#redElement{
-  color: blue;
-}
-
-/* class selector */
-.greenElement{
-  color: green;
-}
-
-/* descendent selector */
-div p{
-  color: blueviolet;
-}
-
-/* grouping selector */
-footer, span{
-  background-color: yellow;
-}
