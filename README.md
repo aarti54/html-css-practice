@@ -48,13 +48,22 @@ It controls colors, layout, spacing, fonts, and overall appearance of a website.
   - Grouping Selector
 - Linking External CSS
 - Basic Text Styling (color)
+- CSS Box Model (margin, padding, border)
+- CSS Alignment (text-align, center positioning)
+- Background Image & Properties
 
 ## Files
 
 CSS/
 │
 ├── style.css → Contains CSS styling and selector practice  
-└── style.html → HTML file used to test and practice CSS styles
+├── selectors.html → HTML file used to test and practice CSS styles  
+├── fonts.html → Contains CSS font styling practice  
+├── colors.html → HTML file used to test and practice CSS styles  
+├── box.html → Demonstrates CSS box styling and borders  
+├── boxModel.html → Demonstrates margin, padding, and box model concepts  
+├── alignment.html → Demonstrates text and element alignment in CSS  
+
 
 ## What I Practiced
 
@@ -62,6 +71,9 @@ CSS/
 - Applying styles to HTML elements
 - Using an **external stylesheet**
 - Understanding how CSS controls the presentation of a webpage
+- Understanding CSS Box Model (margin, padding, border)
+- Working with alignment and positioning
+- Applying background images and styling
 
 ## Purpose
 
